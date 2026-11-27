@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Le thème visuel est géré par Jetpack Compose (NotelyTheme).
+         Ce thème ne sert qu'au lancement de l'activité. -->
+    <style name="Theme.Notely" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/notely_cream</item>
+    </style>
+</resources>
