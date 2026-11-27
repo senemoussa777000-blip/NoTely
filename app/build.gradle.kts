@@ -47,6 +47,8 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("androidx.compose.material3:material3")
     implementation("androidx.compose.material:material-icons-extended")
+    // Fournit le thème Theme.Material3.DayNight.NoActionBar utilisé dans themes.xml
+    implementation("com.google.android.material:material:1.12.0")
 
     // Navigation Compose
     implementation("androidx.navigation:navigation-compose:2.8.0")
